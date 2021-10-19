@@ -11,3 +11,7 @@ Techniques used in this competition:
 3. Rewritten GBDT model
 4. Visualization
 5. K-means
+
+Here only the key model we used is shown. 
+
+More information please check: https://github.com/xieyufengzh/pizza-lover
