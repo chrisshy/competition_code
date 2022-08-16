@@ -9,10 +9,10 @@ https://www.kaggle.com/competitions/amex-default-prediction
 - Techniques Used: Time series features/ Encoding/ Data visualization/ K-S scores/ RFECV feature selection(Embedded&Wrapper) 
 
 ### Baseline: 
-amex-4
+- amex-4
 - Techniques Used: Single Lightgbm/ Cross validation
 
 ### Model Tuning & Model Stacking: 
-amex-5 ~ amex-7
+- amex-5 ~ amex-7
 - Techniques Used: Parameter tuning/ Xgboost/ Random Forest/ Logistic Regression/ Model stacking/ Model blending
 
